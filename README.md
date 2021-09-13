@@ -20,6 +20,8 @@ This **AWS** Course is used for training purpose.
 8. AWS CLI service
 9. AWS IAM User management Service
 10. AWS VPC Service
+11. Application deployment on EC2 instance
+ 
 
 
 ## What will you Acheive when ,you complete this course
