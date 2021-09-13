@@ -1,4 +1,4 @@
-# AWS-Course
+# AWS Course For Beginners
 
 This **AWS** Course is used for training purpose.
 
